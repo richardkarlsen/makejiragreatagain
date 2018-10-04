@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "name": "Make JIRA great again",
+  "version": "0.1.0",
+  "description": "Modify new Jira color",
+  "content_scripts": [
+    {
+      "css": [
+        "styles.css"
+      ],
+      "matches": [
+        "https://jira.udir.no/*",
+        "https://confluence.udir.no/*"
+      ]
+    }
+  ]
+}

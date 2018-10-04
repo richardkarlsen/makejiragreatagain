@@ -1,0 +1,12 @@
+.aui-header {
+    background: #2a3138 !important;
+    border-bottom: 1px solid #2e3d54 !important;
+    -moz-box-sizing: border-box !important;
+    box-sizing: border-box !important;
+    color: #fff !important;
+    padding: 0 10px !important;
+}
+
+.aui-button-primary {
+    background: #057cf5 !important;
+}
